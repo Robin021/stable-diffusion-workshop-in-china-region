@@ -1,3 +1,5 @@
 inference/lambda/.aws-sam/
 */.DS_Store
 /.git
+inference/front-ui/node_modules
+inference/package-lock.json
